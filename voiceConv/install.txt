@@ -1,0 +1,5 @@
+Step 1: First download and Install OBS Studio.
+Step 2: Open OBS Studio and in sources down to Display Capture portion right click>>Add>>Display Capture
+Step 3: Go to setting in OBS and select HotKey and set start recording to alt+f7 and stop recording to alt+f8
+Step 4: Then paste the ppt in Folder(pptToSubtitle) and double click the testvoice.py this will automatically 
+create your video and subtitle and open it.
